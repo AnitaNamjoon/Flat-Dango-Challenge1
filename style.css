@@ -1,0 +1,51 @@
+.container {
+    display: flex;
+    justify-content: space between;
+    align-items:flex-start;
+    padding:20px;
+  }
+  
+  .films-menu {
+    width: 30%;
+    padding: 20px;
+  }
+  
+  .film-details {
+    width: 70%;
+    padding: 20px;
+  }
+  
+  #films {
+    list-style: none;
+    padding: 0;
+    flex-basis:60%;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .film-item {
+    cursor: pointer;
+  }
+  
+  .film-info img {
+    width: 200px;
+  }
+  
+  .sold-out {
+    color: red;
+  }
+  
+  .hide {
+    display: none;
+  }
+  .poster {
+    width: 200px;
+    height: 300px;
+    background-color: #ddd;
+    margin-bottom: 10px;
+  }
+  .buy-ticket {
+    margin-top: 10px;
+  }
