@@ -40,4 +40,4 @@ This project is part of the Flatiron School curriculum. The project requirements
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This application is licensed under the [MIT License](https://opensource.org/licenses/MIT).
