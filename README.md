@@ -36,7 +36,7 @@ The application uses the following API endpoints:
 
 ## Credits
 
-This project is part of the Flatiron School curriculum. The project requirements and guidelines were provided by Flatiron School.
+This application is part of the Flatiron School curriculum. The application requirements and guidelines were provided by Flatiron School.
 
 ## License
 
